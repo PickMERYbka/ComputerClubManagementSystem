@@ -26,3 +26,4 @@ C:\Users\Darya\source\repos\ComputerClubManagementSystem\ComputerClubManagementS
 C:\Users\Darya\source\repos\ComputerClubManagementSystem\ComputerClubManagementSystem\obj\Debug\net6.0-windows\ComputerClubManagementSystem.Forms.ComputerForm.resources
 C:\Users\Darya\source\repos\ComputerClubManagementSystem\ComputerClubManagementSystem\obj\Debug\net6.0-windows\ComputerClubManagementSystem.Forms.CustomerForm.resources
 C:\Users\Darya\source\repos\ComputerClubManagementSystem\ComputerClubManagementSystem\obj\Debug\net6.0-windows\ComputerClubManagementSystem.Forms.SessionForm.resources
+C:\Users\Darya\source\repos\ComputerClubManagementSystem\ComputerClubManagementSystem\obj\Debug\net6.0-windows\ComputerClubManagementSystem.sourcelink.json
