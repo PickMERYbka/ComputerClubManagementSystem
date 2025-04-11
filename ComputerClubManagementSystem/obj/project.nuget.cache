@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1hKHAru/4pE=",
+  "dgSpecHash": "m16RvnIv+pA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\Darya\\Documents\\GitHub\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\Darya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
@@ -11,8 +11,8 @@
     "C:\\Users\\Darya\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Darya\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\Darya\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
-    "C:\\Users\\Darya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
     "C:\\Users\\Darya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Darya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
     "C:\\Users\\Darya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
     "C:\\Users\\Darya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
   ],
