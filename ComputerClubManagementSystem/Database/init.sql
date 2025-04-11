@@ -1,8 +1,8 @@
 -- Create the database
-CREATE DATABASE computer_club_management;
+CREATE DATABASE computer_club_management_new;
 
 -- Connect to the database
-\c computer_club_management
+\c computer_club_management_new
 
 -- Create tables
 
@@ -59,6 +59,7 @@ CREATE TABLE sessions (
     start_time TIMESTAMP NOT NULL,
     end_time TIMESTAMP,
     duration_minutes INTEGER,
+    total_amount DECIMAL(8, 2),
     total_cost DECIMAL(8, 2),
     payment_status VARCHAR(20) DEFAULT 'Pending' CHECK (payment_status IN ('Pending', 'Completed', 'Cancelled')),
     notes TEXT,
