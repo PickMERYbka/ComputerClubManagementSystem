@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj": {}
+    "C:\\Users\\Darya\\Documents\\GitHub\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj": {
+    "C:\\Users\\Darya\\Documents\\GitHub\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Darya\\Documents\\GitHub\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj",
         "projectName": "ComputerClubManagementSystem",
-        "projectPath": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj",
+        "projectPath": "C:\\Users\\Darya\\Documents\\GitHub\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Darya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\Darya\\Documents\\GitHub\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,7 +7,15 @@
       "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\managers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|c:\\users\\darya\\source\\repos\\computerclubmanagementsystem\\computerclubmanagementsystem\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|c:\\users\\darya\\source\\repos\\computerclubmanagementsystem\\computerclubmanagementsystem\\managers\\salesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\managers\\salesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|c:\\users\\darya\\source\\repos\\computerclubmanagementsystem\\computerclubmanagementsystem\\managers\\reportingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\managers\\reportingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\computerclubmanagementsystem\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
       "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     },
     {
@@ -23,14 +31,6 @@
       "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|c:\\users\\darya\\source\\repos\\computerclubmanagementsystem\\computerclubmanagementsystem\\managers\\salesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\managers\\salesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|c:\\users\\darya\\source\\repos\\computerclubmanagementsystem\\computerclubmanagementsystem\\managers\\reportingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\managers\\reportingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|c:\\users\\darya\\source\\repos\\computerclubmanagementsystem\\computerclubmanagementsystem\\database\\init.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\database\\init.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -39,7 +39,7 @@
       "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|c:\\users\\darya\\source\\repos\\computerclubmanagementsystem\\computerclubmanagementsystem\\forms\\sessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\computerclubmanagementsystem\\forms\\sessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\forms\\sessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -47,7 +47,7 @@
       "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\forms\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|c:\\users\\darya\\source\\repos\\computerclubmanagementsystem\\computerclubmanagementsystem\\forms\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\computerclubmanagementsystem\\forms\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44AFC281-C9BF-420E-8832-50D4677E3AA6}|ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj|solutionrelative:computerclubmanagementsystem\\forms\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -114,23 +114,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Settings.settings",
-              "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Properties\\Settings.settings",
-              "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Properties\\Settings.settings",
-              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Properties\\Settings.settings",
-              "RelativeToolTip": "ComputerClubManagementSystem\\Properties\\Settings.settings",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
-              "WhenOpened": "2025-04-11T09:01:39.583Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Settings.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Properties\\Settings.Designer.cs",
               "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Properties\\Settings.Designer.cs",
@@ -138,12 +134,11 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\Properties\\Settings.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T09:01:39.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T09:01:39.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Resources.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Properties\\Resources.Designer.cs",
               "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Properties\\Resources.Designer.cs",
@@ -151,12 +146,11 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\Properties\\Resources.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T09:01:37.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T09:01:37.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Properties\\AssemblyInfo.cs",
@@ -164,8 +158,7 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T09:01:37.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T09:01:37.692Z"
             },
             {
               "$type": "Document",
@@ -173,9 +166,9 @@
               "Title": "SessionManager.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Managers\\SessionManager.cs",
               "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Managers\\SessionManager.cs",
-              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Managers\\SessionManager.cs*",
-              "RelativeToolTip": "ComputerClubManagementSystem\\Managers\\SessionManager.cs*",
-              "ViewState": "AgIAANEAAAAAAAAAAAAtwOQAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Managers\\SessionManager.cs",
+              "RelativeToolTip": "ComputerClubManagementSystem\\Managers\\SessionManager.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAcwOQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T09:01:30.97Z",
               "EditorCaption": ""
@@ -190,54 +183,31 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\Database\\init.sql",
               "ViewState": "AgIAAGUBAAAAAAAAAAAawHkBAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-11T09:01:00.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2025-04-11T09:01:00.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "SalesManager.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Managers\\SalesManager.cs",
               "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Managers\\SalesManager.cs",
-              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Managers\\SalesManager.cs*",
-              "RelativeToolTip": "ComputerClubManagementSystem\\Managers\\SalesManager.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAIA3wBsAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Managers\\SalesManager.cs",
+              "RelativeToolTip": "ComputerClubManagementSystem\\Managers\\SalesManager.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAtwJcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T09:00:22.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T09:00:22.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ReportingManager.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Managers\\ReportingManager.cs",
               "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Managers\\ReportingManager.cs",
               "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Managers\\ReportingManager.cs",
               "RelativeToolTip": "ComputerClubManagementSystem\\Managers\\ReportingManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAawBQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAtwGQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T09:00:17.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SessionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\SessionForm.cs",
-              "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Forms\\SessionForm.cs",
-              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\SessionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "ComputerClubManagementSystem\\Forms\\SessionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T08:57:36.651Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2025-04-11T09:00:17.092Z"
             },
             {
               "$type": "Document",
@@ -254,18 +224,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SalesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\SalesForm.cs",
-              "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Forms\\SalesForm.cs",
-              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\SalesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "ComputerClubManagementSystem\\Forms\\SalesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T08:57:18.36Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Form1.Designer.cs",
@@ -274,8 +232,7 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:34:35.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T17:34:35.836Z"
             },
             {
               "$type": "Document",
@@ -287,8 +244,7 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\Managers\\BaseManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:34:17.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T17:34:17.288Z"
             },
             {
               "$type": "Document",
@@ -300,8 +256,7 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\Models\\Computer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:34:10.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T17:34:10.248Z"
             },
             {
               "$type": "Document",
@@ -313,8 +268,7 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-08T17:30:49.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T17:30:49.762Z"
             },
             {
               "$type": "Document",
@@ -326,8 +280,7 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:22:40.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T17:22:40.157Z"
             },
             {
               "$type": "Document",
@@ -352,8 +305,7 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-08T17:30:46.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T17:30:46.682Z"
             },
             {
               "$type": "Document",
@@ -391,8 +343,7 @@
               "RelativeToolTip": "ComputerClubManagementSystem\\run.bat",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFjSURBVDhPY6AI/P//n7G1s\u002Bc/lEsWYILSRANbaysUmgHkgl\u002B/fpGFQXqxuuDkyZMMEydOBNOEAIYBixYvZhARl2QIiohi4BeTYJg\u002BcxZUBjtAMeDSpUsM1rb2DEoKcgwnDx9kUFOQZ7BxcQeL4wIoBuzfv5\u002BBjZOTYe2aNQyRkZEM69auYWBjY2VYv3UHw4otuxl2HzzK8OPHD6hqCEAxwNHRkeHrt28MQcEhDMuXL2cIANLP33xgUPdNYdB3dGN4JajGcPrSVahqCEAxQE9Pj\u002BHE4UMMV\u002B89ZNC1tGW4dOcBw7kzZxn0lYQZLj/5zGCoLMrw9NU7qGoIwAjEhLhYhm9vXjDsWLOC4fe7lwxm\u002BloMl\u002B69ZdCV4WW4cO8Ng4meNlQlBLBAaRRgbm4OxiAA8vOPU2cZLj34xqCnpswgIyYFFocBDBegAw4ODgYXO2uGcB9XBh01JTAfGVCcFwYaMDAAABi9qE6NKlarAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-04-08T17:31:03.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T17:31:03.037Z"
             },
             {
               "$type": "Document",
@@ -400,12 +351,44 @@
               "Title": "ComputerClubManagementSystem.csproj",
               "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj",
               "RelativeDocumentMoniker": "ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj",
-              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj*",
-              "RelativeToolTip": "ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj*",
+              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj",
+              "RelativeToolTip": "ComputerClubManagementSystem\\ComputerClubManagementSystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-08T17:17:02.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T17:17:02.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Properties\\Settings.settings",
+              "RelativeToolTip": "ComputerClubManagementSystem\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-04-11T09:01:39.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\SessionForm.cs",
+              "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Forms\\SessionForm.cs",
+              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\SessionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ComputerClubManagementSystem\\Forms\\SessionForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:57:36.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\SalesForm.cs",
+              "RelativeDocumentMoniker": "ComputerClubManagementSystem\\Forms\\SalesForm.cs",
+              "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\SalesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ComputerClubManagementSystem\\Forms\\SalesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:57:18.36Z"
             },
             {
               "$type": "Document",
@@ -416,8 +399,7 @@
               "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\ComputerForm.cs [Design]",
               "RelativeToolTip": "ComputerClubManagementSystem\\Forms\\ComputerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:30:08.218Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-08T17:30:08.218Z"
             },
             {
               "$type": "Document",
@@ -428,8 +410,7 @@
               "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Form1.cs [Design]",
               "RelativeToolTip": "ComputerClubManagementSystem\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:27:00.397Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-08T15:27:00.397Z"
             },
             {
               "$type": "Document",
@@ -440,8 +421,7 @@
               "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\CustomerForm.cs [Design]",
               "RelativeToolTip": "ComputerClubManagementSystem\\Forms\\CustomerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:30:28.205Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-08T17:30:28.205Z"
             },
             {
               "$type": "Document",
@@ -452,8 +432,7 @@
               "ToolTip": "C:\\Users\\Darya\\source\\repos\\ComputerClubManagementSystem\\ComputerClubManagementSystem\\Forms\\ComputerEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "ComputerClubManagementSystem\\Forms\\ComputerEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:30:06.129Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2025-04-08T17:30:06.129Z"
             }
           ]
         }
